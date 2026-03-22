@@ -1,0 +1,4 @@
+[ 2026-03-21 15:33:20,421] 22 root - INFO - Data Ingestion methods starts
+[ 2026-03-21 15:33:20,579] 26 root - INFO - Dataset read successfully
+[ 2026-03-21 15:33:21,139] 30 root - INFO - train test split
+[ 2026-03-21 15:33:21,741] 36 root - INFO - Data ingestion is completed
